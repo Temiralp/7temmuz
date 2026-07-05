@@ -1,0 +1,30 @@
+[33mcommit 0d4573d1fd475557a82df865d9c3a32eb0ec2b76[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: CAGRI <cagriyalcin05@gmail.com>
+Date:   Sun Jul 5 17:45:28 2026 +0300
+
+    config eklendi
+
+[33mcommit 8be452aa64fbf1ea245cbeb086b2b899455a5cc3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7aeac8b 255010a
+Author: CAGRI <cagriyalcin05@gmail.com>
+Date:   Sun Jul 5 16:37:43 2026 +0300
+
+    Merge branch 'main' of https://github.com/Temiralp/7temmuz
+
+[33mcommit 7aeac8b99846fa3d42112830d438fc97b0c3fe12[m
+Author: CAGRI <cagriyalcin05@gmail.com>
+Date:   Sun Jul 5 16:37:15 2026 +0300
+
+    cagri
+
+[33mcommit 255010a143fd41c38d0e2974d0caf71c85353663[m
+Author: İdil <idill2364@gmail.com>
+Date:   Sun Jul 5 16:36:34 2026 +0300
+
+    idil
+
+[33mcommit ccc68a1ce43171f0ac4401a4ca776e5e3e762487[m
+Author: Temiralp <rtemir1881@gmail.com>
+Date:   Sun Jul 5 16:33:05 2026 +0300
+
+    initial commit
