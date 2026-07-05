@@ -1,6 +1,2 @@
-database adı
-şifre
-
-gemini api key
-
-
+.env
+libary/
